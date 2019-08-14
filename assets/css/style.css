@@ -145,6 +145,12 @@ body {
 } 
 .portfolio img {
     width: 400px;
+    height: 400px;
     height: auto;
+    margin-top: 30px;
+}
+
+.card-img-top{
+    
     margin-top: 30px;
 }
