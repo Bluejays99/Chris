@@ -107,7 +107,7 @@ body {
 }
 
 .title h1 {
-	background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
+    background-image: url(https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif);
 	background-size: cover;
 	color: transparent;
 	-moz-background-clip: text;
@@ -116,7 +116,7 @@ body {
 	font-size: 3.5rem;
 	line-height: .75;
     margin: 10px 0;
-    font-weight: bold;
+    font-weight: bold; 
 }
 
 .about-me h1 {
