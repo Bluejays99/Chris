@@ -25,7 +25,7 @@ p {
     background:rgb(253, 253, 253);
 }
 #about-me-container {
-    background: white;
+    background: rgb(57, 158, 99);
 }
 a:hover {
     color: white;
@@ -86,7 +86,7 @@ body {
 .portfolio {
 	font-family: "Montserrat";
 	text-align: center;
-	color: #FFF;
+	color: rgba(44, 74, 102, 0.267);
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -164,4 +164,23 @@ body {
     margin-right: 10px;
     width: 25px;
     height: 25px;
+}
+
+.card-deck {
+    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.technologies {
+    color: #00B0B9;
+    font-family: 'Poiret One', cursive;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    color: rgb(83, 212, 83)
 }
