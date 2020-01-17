@@ -185,3 +185,9 @@ body {
 .card-text {
     color: rgb(83, 212, 83)
 }
+
+.view-app {
+    font-weight: bolder;
+    font-size: 22px;
+    text-transform: uppercase;
+}
